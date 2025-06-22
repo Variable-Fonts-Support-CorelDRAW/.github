@@ -45,7 +45,7 @@ Explore flexible typography with Variable Fonts Support in CorelDRAW — adjust 
 ### 🖼 Preview
 
 Variable font sliders in CorelDRAW adjusting text weight and width  
-![Screenshot](PLACE_YOUR_IMAGE_LINK_HERE)  
+![Screenshot](https://typography.guru/uploads/monthly_2020_03/CDGS-VariableFonts-FB.jpg.1d6c8ef6319e5ebfb8aef3bee83cc822.jpg)  
 *Dynamic type, infinite flexibility — all from one font file*
 
 ---
